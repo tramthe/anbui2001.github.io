@@ -1,4 +1,0 @@
-baseURL = 'https://tramthe.github.io/'
-languageCode = 'en-us'
-title = 'Google Cloud Shell'
-theme = 'newsroom'
